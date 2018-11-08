@@ -1,0 +1,19 @@
+body {
+	background-color: whitesmoke; width: 50%; margin: 0 auto;
+}
+
+header {
+	text-align: center;
+}
+
+iframe {
+	align-content: center;
+}
+
+section {
+	text-align: left;
+}
+
+footer {
+	text-align: center;
+}
